@@ -1,0 +1,37 @@
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/bin/Debug/netcoreapp3.1/Lab1.exe
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+D:/개인 자료/재능아지트/20200922-myme987-80,000/20923924myme987/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
+/Users/TaegeonKim/Downloads/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/TaegeonKim/Downloads/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/TaegeonKim/Downloads/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/TaegeonKim/Downloads/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/TaegeonKim/Downloads/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/TaegeonKim/Downloads/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/Users/TaegeonKim/Downloads/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/TaegeonKim/Downloads/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/TaegeonKim/Downloads/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/TaegeonKim/Downloads/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/TaegeonKim/Downloads/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+/Users/TaegeonKim/Downloads/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
+/Users/TaegeonKim/Desktop/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/TaegeonKim/Desktop/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/TaegeonKim/Desktop/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/TaegeonKim/Desktop/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/TaegeonKim/Desktop/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/TaegeonKim/Desktop/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/Users/TaegeonKim/Desktop/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/TaegeonKim/Desktop/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/TaegeonKim/Desktop/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/TaegeonKim/Desktop/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/TaegeonKim/Desktop/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+/Users/TaegeonKim/Desktop/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
