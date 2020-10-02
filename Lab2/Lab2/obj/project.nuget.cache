@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3pDGV36V60KVlszJUELICr7I/oTvpM50zCbFT5gK38SurElPaAUVggSqvVfZaiZddS0XiEv7sm92IlzcfE4OxQ==",
+  "success": true,
+  "projectFilePath": "/Users/TaegeonKim/Desktop/Lab2/Lab2/Lab2.csproj",
+  "expectedPackageFiles": [
+    "/Users/TaegeonKim/.nuget/packages/microsoft.windowsdesktop.app.ref/3.1.0/microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
